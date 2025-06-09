@@ -1,6 +1,6 @@
-# Superstore Data Analysis Using Power BI
-## Project Objectives
-To Create Sales Dashboard,Region And Category Level Analysis
+# 📊 Superstore Sales Analysis - Power BI Dashboard
+
+This project analyzes sales data from a fictional Superstore to uncover insights on revenue, profit, customer segments, and regional performance using **Power BI**.
 
 ## Dataset Used
 - <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Power%20BI%20Dashboard%20-%20Superstore.xlsx">Data Set </a>
