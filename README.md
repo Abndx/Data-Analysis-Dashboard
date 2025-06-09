@@ -14,3 +14,5 @@ To Create Sales Dashboard,Region And Category Level Analysis
 - Highest selling category
 - Total quantity sold by each segment
 - Total sales by sub-category
+
+Dashboard Interaction -
