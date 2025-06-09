@@ -1,3 +1,3 @@
 # Superstore Data Analysis Using Power BI
 ## Project Objectives
-To create sales dashboard,region and category level analysis
+To Create Sales Dashboard,Region And Category Level Analysis
