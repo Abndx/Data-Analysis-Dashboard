@@ -17,3 +17,12 @@ The goal of this dashboard is to help business stakeholders quickly understand k
 Dashboard Interaction - <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160531.png">Dashboard1</a>
                         <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160647.png">Dashboard2</a>
                         <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160656.png">Dashboard3</a>
+
+
+## 📌 Key Insights
+
+- The **West region** is the top-performing region in terms of both **Sales** and **Profit**.
+- **Office Supplies** has high sales volume but low profit margins.
+- **California** leads in overall sales but also shows some profit loss in specific sub-categories.
+- Most orders are concentrated in **Standard Class** and **Consumer Segment**.
+- There's a visible **seasonal trend** in sales around Q4 of each year.
