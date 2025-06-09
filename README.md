@@ -15,4 +15,7 @@ To Create Sales Dashboard,Region And Category Level Analysis
 - Total quantity sold by each segment
 - Total sales by sub-category
 
-Dashboard Interaction -
+
+Dashboard Interaction - <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160531.png">View Dashboard</a>
+                        <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160647.png">View Dashboard</a>
+                        <a href="https://github.com/Abndx/Data-Analysis-Dashboard/blob/main/Screenshot%202025-06-09%20160656.png">View Dashboard</a>
